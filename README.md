@@ -1,7 +1,10 @@
-# sql
+# SQL
 
-Utilizei o banco de dados 'classicmodels' do website 'https://www.mysqltutorial.org/mysql-sample-database.aspx'.
+# Sobre
+Este repositório contém consultas somente de leitura (SELECT) ao banco de dados "classicmodels" que é gerenciado pelo MySQL 8.0.32. 
 
-Também usei o MySQL 8.0.32.
+O banco de dados "classicmodels" pode ser obtido no link abaixo:
 
-Há 50 exercícios resolvidos no arquivo basic_queries.sql.
+https://www.mysqltutorial.org/mysql-sample-database.aspx
+
+Há 50 exercícios resolvidos no arquivo "select.sql"
