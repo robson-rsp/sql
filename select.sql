@@ -111,6 +111,13 @@ WHERE customerName LIKE '[JPT]%';
 
 
 
+-- Consultar quais nomes de clientes começam com 'J', 'P' ou 'T' e que moram em cidades que começam com 'L' ou 'N'.
+SELECT customerName, city 
+FROM customers
+WHERE (customerName LIKE '[JPT]%') AND (city LIKE '[LN]%');
+
+
+
 ------------------------------ LISTAS ------------------------------
 -- Consultar qual é o segundo preço mais alto dos automóveis.
 SELECT MAX(buyPrice) AS '2th_expensive'
