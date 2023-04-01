@@ -3,11 +3,11 @@ ___
 # SQL (SELECT)
 
 # Sobre
-Este repositório contém consultas somente de leitura uma vez que o foco do estudo é na extração de informações para aplicação de ciência de dados.
+Este repositório contém consultas somente de leitura uma vez que o foco de estudo é na extração de informações para aplicação de ciência de dados.
 
-O banco de dados de "classicmodels" contém informações sobre um varejista de modelos em miniatura de carros clássicos. Ele contém dados típicos de negócios, como: clientes, produtos, vendas, entre outras.
+O banco de dados de "classicmodels" contém informações sobre um varejista de modelos em miniatura de carros clássicos. Ele contém dados típicos de negócios, como: clientes, produtos, vendas, entre outros.
 
-Há 50 exercícios resolvidos no arquivo "select.sql" envolvendo consultas com:
+Há 50 exercícios resolvidos no arquivo "select.sql" envolvendo os assuntos:
 * Informações gerais da tabela
 * Filtros exatos
 * Filtros aproximados
