@@ -1,5 +1,5 @@
-# SQL (SELECT)
 ![GitHub](https://img.shields.io/github/license/robson-rsp/sql)
+# SQL (SELECT)
 
 # Sobre
 Este repositório contém consultas somente de leitura uma vez que o foco do estudo é na extração de informações para aplicação de ciência de dados.
@@ -25,4 +25,4 @@ Há 50 exercícios resolvidos no arquivo "select.sql" envolvendo consultas com:
 ___
 **Fonte:** [MySQL Tutorial](https://www.mysqltutorial.org/mysql-sample-database.aspx)
 
-**Autor:** Robson de Souza Pedroso
+**Autor:** Robson Pedroso
