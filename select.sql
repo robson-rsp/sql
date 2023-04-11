@@ -1,4 +1,4 @@
--- Obter os nomes de todas as colunas de uma tabela..
+-- Obter os nomes de todas as colunas de uma tabela.
 SELECT *
 FROM INFORMATION_SCHEMA.COLUMNS
 WHERE TABLE_NAME = 'customers';
